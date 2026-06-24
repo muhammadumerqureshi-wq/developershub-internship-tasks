@@ -1,11 +1,12 @@
 # DevelopersHub Corporation — AI/ML Engineering Internship Tasks
 
 **Intern:** Muhammad Umer Qureshi  
+**Email:** muhammadumeraureshi39@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/muhammad-umer-qureshi-243b12387/
+**GitHub:** [muhammadumerqureshi-wq](https://github.com/muhammadumerqureshi-wq)  
 **Internship:** AI/ML Engineering — DevelopersHub Corporation  
 **Due Date:** 26th June, 2026
-**Email:** muhammadumerqureshi39@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/muhammad-umer-qureshi-243b12387/
-**GitHub:** [muhammadumerqureshi-wq](https://github.com/muhammadumerqureshi-wq)
+
 ---
 
 ## ✅ Completed Tasks
@@ -40,24 +41,44 @@
 - **Skills Used:** binary classification, EDA, ROC-AUC, confusion matrix, feature importance analysis
 
 ---
----
 
 ### Task 4: General Health Query Chatbot
 - **Dataset:** No dataset — Prompt Engineering based
-- **Objective:** Build a conversational health chatbot using LLM
+- **Objective:** Build a conversational health chatbot using a Large Language Model
 - **Tools:** Groq API (LLaMA 3.3 70B), python-dotenv
 - **Key Results & Findings:**
-  - Built two-layer safety system (keyword filter + LLM-level instructions)
-  - Implemented conversation memory for context-aware responses
-  - Designed professional system prompt controlling persona, tone & safety
-  - Emergency detection with Pakistan helpline numbers
-- **Skills Used:** Prompt engineering, LLM API integration, safety handling, conversational agent design
+  - Designed professional system prompt controlling persona, tone, and safety rules
+  - Built two-layer safety system — keyword filter + LLM-level instructions
+  - Implemented conversation memory for context-aware follow-up responses
+  - Emergency detection with Pakistan-specific helpline numbers (115, Umang)
+  - API key secured via `.env` file and `.gitignore`
+- **Skills Used:** prompt engineering, LLM API integration, safety handling, conversational agent design
 
+---
 
 ## 🛠️ Tech Stack
-- Python 3.x
+
+### Machine Learning
+- scikit-learn (Logistic Regression, Decision Tree, StandardScaler)
 - pandas, numpy
 - matplotlib, seaborn
-- scikit-learn
 - ucimlrepo
 
+### LLM & AI
+- Groq API (LLaMA 3.3 70B)
+- python-dotenv
+- Prompt Engineering
+
+### Environment
+- Python 3.14
+- Jupyter Notebooks (VS Code)
+
+## 📁 Repository Structure
+```
+developershub-internship-tasks/
+├── task1_iris_eda.ipynb
+├── heart_disease_prediction.ipynb
+├── task4_health_chatbot.ipynb
+├── .gitignore
+└── README.md
+```
