@@ -1,7 +1,7 @@
 # DevelopersHub Corporation — AI/ML Engineering Internship Tasks
 
 **Intern:** Muhammad Umer Qureshi  
-**Email:** muhammadumeraureshi39@gmail.com  
+**Email:** muhammadumerqureshi39@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/muhammad-umer-qureshi-243b12387/
 **GitHub:** [muhammadumerqureshi-wq](https://github.com/muhammadumerqureshi-wq)  
 **Internship:** AI/ML Engineering — DevelopersHub Corporation  
