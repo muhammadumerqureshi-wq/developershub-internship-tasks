@@ -40,6 +40,19 @@
 - **Skills Used:** binary classification, EDA, ROC-AUC, confusion matrix, feature importance analysis
 
 ---
+---
+
+### Task 4: General Health Query Chatbot
+- **Dataset:** No dataset — Prompt Engineering based
+- **Objective:** Build a conversational health chatbot using LLM
+- **Tools:** Groq API (LLaMA 3.3 70B), python-dotenv
+- **Key Results & Findings:**
+  - Built two-layer safety system (keyword filter + LLM-level instructions)
+  - Implemented conversation memory for context-aware responses
+  - Designed professional system prompt controlling persona, tone & safety
+  - Emergency detection with Pakistan helpline numbers
+- **Skills Used:** Prompt engineering, LLM API integration, safety handling, conversational agent design
+
 
 ## 🛠️ Tech Stack
 - Python 3.x
